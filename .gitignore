@@ -1,0 +1,6 @@
+dist
+src/assets/md/*
+!src/assets/md/README.md
+node_modules
+yarn.lock
+yarn-error.log
